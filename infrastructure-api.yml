@@ -1,0 +1,9 @@
+config:
+  server:
+    bind:
+      test: 8-25-6:22pm
+aws:
+  billing:
+    bucket:
+      name: cglean-billing
+      prefix: daily/summary      
